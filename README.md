@@ -1,2 +1,2 @@
-# Dessert-Delights-Frontend
+# Hobby-Village-Frontend
 멀티캠퍼스 KDT 파이널프로젝트 - 취미빌리지
